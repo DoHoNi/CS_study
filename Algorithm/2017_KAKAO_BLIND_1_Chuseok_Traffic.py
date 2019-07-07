@@ -1,6 +1,7 @@
 # 2017_KAKAO_BLIND_RECRUTMENT_1차
 # 추석트레픽
 
+# https://programmers.co.kr/learn/courses/30/lessons/17676
 # 2019.07.07 
 # Dohyun Kim
 
