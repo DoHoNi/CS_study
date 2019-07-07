@@ -1,8 +1,8 @@
 # Design Pattern
-----
+
 ## Singleton Design Pattern
----
-#### What is Singleton Pattern
+
+### What is Singleton Pattern
 생성자가 여러 차례 호출되더라도 실제로 생성되는 객체는 하나이도록 제한하여, 최초 생성 이후에 호출된 생성자는 최초의 생성자가 생성한 객체를 리턴하도록 하는 디자인 패턴이다.
 여러개의 objects들이 하나의 DB를 공유하고 싶은 상황(DB Connection Pool)에 자주 사용된다.
 
